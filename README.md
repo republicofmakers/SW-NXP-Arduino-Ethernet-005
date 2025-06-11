@@ -13,7 +13,7 @@ SERVER ON
 CLIENT CONNECTED
 
 
-## Control Led from your browser:
+## Receive digital data from your browser:
 
 <img width="698" alt="Image" src="https://github.com/user-attachments/assets/db63d45a-33e9-4d5e-966f-2187cee7cc61" />
 
@@ -23,7 +23,7 @@ Demonstration (Turn LED ON)
 
 Demonstration (Turn LED OFF)
 
-## Send digital input to your browser:
+## Send digital data to your browser:
 
 <img width="656" alt="Image" src="https://github.com/user-attachments/assets/2bd8e5f1-47ee-429a-94da-07da7c11f5de" />
 
@@ -34,7 +34,7 @@ Demonstration (Button Pressed)
 Demonstration (Button Released)
 
 
-## Send digital input to your browser:
+## Send analog data to your browser:
 
 Demonstration (Potentiometer)
 
